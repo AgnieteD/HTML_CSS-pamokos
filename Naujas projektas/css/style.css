@@ -1,0 +1,64 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+header {
+  background-color: rgb(125, 113, 211);
+}
+
+.h-80px {
+  height: 80px;
+}
+
+header img {
+  width: 153px;
+  height: 38px;
+}
+
+.nav-link {
+  font-size: 12px;
+  padding: 8px 15px;
+  background-color: unset !important;
+  color: white !important;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.bg-1 {
+  background-image: url(http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/banner-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 170px 0 145px;
+}
+
+h5 {
+  font-size: 20px;
+}
+
+.h1-big {
+  margin-bottom: 30px;
+  line-height: 90px;
+  font-weight: 500;
+  letter-spacing: .06em;
+  font-size: 60px;
+}
+
+.mb-75 {
+  margin-bottom: 75px;
+}
+
+.mr-18 {
+  margin-right: 18px;
+}
+
+.bg-2 {
+  background-image: url(http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/elipse-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 100px 0;
+}
