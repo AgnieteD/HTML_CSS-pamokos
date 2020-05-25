@@ -78,9 +78,12 @@ h5 {
 }
 
 .about1 p {
+  color: #999999;
+}
+
+.about1 p, .about2 p {
   font-size: 14px;
   letter-spacing: 0;
-  color: #999999;
   margin-bottom: 0;
   line-height: 30px;
 }
@@ -106,4 +109,43 @@ h5 {
   font-size: 48px;
   font-weight: 200 !important;
   margin-bottom: 30px;
+}
+
+.text-center p {
+  color: #999999;
+}
+
+.feature p {
+  width: 70%;
+  font-size: 16px;
+  line-height: 30px;
+  color: #999999;
+  margin: 0 auto;
+}
+
+.bg-elipse {
+  background-image: url(http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/elipse-bg-three.png);
+  background-position: center;
+}
+
+.feature h5 {
+  color: #5e5e5e;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.mb-25px {
+  margin-bottom: 25px;
+}
+
+.mb-80 {
+  margin-bottom: 80px;
+}
+
+.m-tb-40 {
+  margin: 40px 0;
+}
+
+.text-right p {
+  text-align: right;
 }
