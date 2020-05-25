@@ -2,7 +2,7 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-header {
+header, .about2 {
   background-color: rgb(125, 113, 211);
 }
 
@@ -61,4 +61,49 @@ h5 {
   background-size: cover;
   background-repeat: no-repeat;
   padding: 100px 0;
+}
+
+.purple {
+  color: rgba(169, 161, 219);
+}
+
+.about1 {
+  background-color: rgba(255, 255, 255);
+}
+
+.about1 h5 {
+  font-weight: 600;
+  margin-bottom: 15px;
+  color: #5e5e5e;
+}
+
+.about1 p {
+  font-size: 14px;
+  letter-spacing: 0;
+  color: #999999;
+  margin-bottom: 0;
+  line-height: 30px;
+}
+
+.p-30px {
+  padding: 30px;
+}
+
+.ml-30px {
+  margin-left: 30px;
+}
+
+.about2 {
+  color: white;
+}
+
+.mb-30px {
+  margin-bottom: 30px;
+}
+
+.text-center h2 {
+  color: #5e5e5e;
+  font-size: 48px;
+  font-weight: 200 !important;
+  margin-bottom: 30px;
 }
